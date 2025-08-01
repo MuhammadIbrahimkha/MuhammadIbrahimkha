@@ -55,7 +55,7 @@ Check out my portfolio 👉 [ibrahim-my-portfolio.vercel.app](https://ibrahim-my
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/muhammadibrahimkha](https://www.linkedin.com/in/muhammad-ibrahim-9b789a248/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-9b789a248/)
 - 📧 muhammadibrahimmi2005@gmail.com
 - 💻 [GitHub](https://github.com/MuhammadIbrahimkha)
 
