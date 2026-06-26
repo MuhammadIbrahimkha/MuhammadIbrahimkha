@@ -47,7 +47,7 @@ I'm **Muhammad Ibrahim**, a passionate **full-stack web developer** who enjoys c
 
 ## 🌐 Portfolio
 
-Check out my portfolio 👉 [ibrahim-my-portfolio.vercel.app](https://ibrahim-my-portfolio.vercel.app)
+Check out my portfolio 👉 [ibrahim-portfolio-33.vercel.app](https://ibrahim-portfolio-33.vercel.app/)
 
 🎯 Fully responsive | 🌙 Dark Mode Ready | ⚡ Performance Optimized
 
