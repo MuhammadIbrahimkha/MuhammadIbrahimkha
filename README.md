@@ -74,15 +74,6 @@ Static Web Apps    Azure App Service           EF Core migrations
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadIbrahimkha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIbrahimkha&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## Let's Connect
 
 - LinkedIn: [linkedin.com/in/muhammad-ibrahim33](https://www.linkedin.com/in/muhammad-ibrahim33)
